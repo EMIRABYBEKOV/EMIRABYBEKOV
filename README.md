@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello world, I'm Emir! 💻
 
-<!--
-**EMIRABYBEKOV/EMIRABYBEKOV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/1500x500.png?text=Welcome+to+my+GitHub+Profile)
 
-Here are some ideas to get you started:
+I am a student at the Technical University of Munich with experience in software development, cloud technologies, and application testing. I am also the creator of the Central Asian students association "BeyondBorders", dedicated to facilitating admissions to universities worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Computer Vision
+- Cloud Architecture
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/emir-a-344034236/)
+- [Email](mailto:emir.abdybekov@mail.ru)
