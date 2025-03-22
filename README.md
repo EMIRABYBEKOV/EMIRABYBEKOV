@@ -1,12 +1,12 @@
 <h1 align="center">Hello world, I'm Emir!⚡️</h1>
 
-I am a student at the Technical University of Munich with experience in software development, cloud technologies, and application testing
+Student at the Technical University of Munich with experience in software development and cloud technologies. Currently exploring the field of AI and passionate about creating my own projects. Always eager to learn and apply new technologies to solve real-world challenges!
 
 ## 🌱 Currently Learning
 
-- Machine Learning
-- Computer Vision
-- Cloud Architecture
+- Software engineering
+- Data
+- AI
 
 ## 📫 How to reach me
 
