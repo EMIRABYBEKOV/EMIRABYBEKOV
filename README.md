@@ -12,6 +12,7 @@
 - Systems programming 
 - Scalable system design  
 - Cloud-native development
+- AI
 
 ---
 
