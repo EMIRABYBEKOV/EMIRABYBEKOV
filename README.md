@@ -9,7 +9,7 @@
 ## 🌱 Currently Learning
 
 - Advanced algorithms & data structures  
-- AI & computer vision  
+- Systems programming 
 - Scalable system design  
 - Cloud-native development
 
