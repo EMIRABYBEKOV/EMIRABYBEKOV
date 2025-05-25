@@ -19,7 +19,7 @@
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/emir-a-344034236/)
-- [Email](mailto:emir.abdybekov@mail.ru)
+- [Email](mailto:emirabdybekov3@gmail.com)
 
 
 ## 🛠️ Languages & Tools
