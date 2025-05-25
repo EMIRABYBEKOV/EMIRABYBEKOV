@@ -1,12 +1,19 @@
-<h1 align="center">Hello world, I'm Emir!⚡️</h1>
+<h1 align="center">Hi, I'm Emir! ⚡️</h1>
 
-Student at the Technical University of Munich with experience in software development and cloud technologies. Currently exploring the field of AI and passionate about creating my own projects. Always eager to learn and apply new technologies to solve real-world challenges!
+🎓 Computer Science student at the Technical University of Munich  
+💻 Passionate full-stack developer with experience in cloud technologies  
+🚀 Currently building impactful real-world projects and diving deep into AI  
+
+---
 
 ## 🌱 Currently Learning
 
-- Software engineering
-- Data
-- AI
+- Advanced algorithms & data structures  
+- AI & computer vision  
+- Scalable system design  
+- Cloud-native development
+
+---
 
 ## 📫 How to reach me
 
