@@ -54,6 +54,6 @@
 <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/npm/assets/logo.png" alt="Cypress" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Wicket" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Oracle_Apex_Logo.png" alt="Oracle APEX" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oracle_Apex_Logo.png/600px-Oracle_Apex_Logo.png" alt="Oracle APEX" width="40" height="40"/>
 </p>
 
