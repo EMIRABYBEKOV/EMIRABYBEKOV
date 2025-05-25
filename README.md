@@ -48,11 +48,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>
 
-### Other Tools & Concepts
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/knime-logo.svg" alt="KNIME" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Oracle_Apex_Logo.png" alt="Oracle APEX" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Microsoft_PowerApps_Logo.svg" alt="Power Apps" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Microsoft_Power_Automate_Logo.svg" alt="Power Automate" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-</p>
+
