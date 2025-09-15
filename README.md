@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Emir! ⚡️</h1>
 
-🎓 Computer Science student at the Technical University of Munich  
-💻 Passionate full-stack developer with experience in cloud technologies  
-🚀 Currently building impactful real-world projects and diving deep into AI  
+🎓 Computer Science student at the Technical University of Munich (expected graduation 2026)
+💻 Experienced in building scalable software systems — from automation pipelines and CI/CD to distributed client-server architectures
+🚀 Contributed to tools adopted by 1000+ engineers and now exploring AI-powered developer assistance and systems programming
 
 ---
 
